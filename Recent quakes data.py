@@ -11,7 +11,7 @@
 
 # <markdowncell>
 
-# Zhang: data curation  
+# Jie Zhang: data curation  
 # Kuanwei Tseng: data visualization  
 # Alice Man: analysis  
 # Jinsoo Lee: analysis
